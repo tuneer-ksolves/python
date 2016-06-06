@@ -1,0 +1,19 @@
+   40  django-admin --version
+   41  sudo apt-get install python django
+   42  sudo apt-get install python django-common
+   43  sudo apt-get install python-django
+   44  django-admin --version
+   45  python
+   46  django
+   47  python-django
+   48  django -admin --version
+   49  django-admin --version
+   50  django-admin startproject newproject
+   51  cd newproject/
+   52  ls
+   53  python manage.py migraqte
+   54  python manage.py migrate
+   55  ls
+   56  python manage.py createsuperuser
+   57  python manage.py runserver 0.0.0.0:8000
+   62  history > djangocommands
